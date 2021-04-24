@@ -2,7 +2,7 @@
 
 #### 跳转到DISPLAY
 
-[DISPLAY](E:\Computer English\DISPLAY.md)
+[DISPLAY](.\DISPLAY.md)
 
 #### 一张在线图片
 

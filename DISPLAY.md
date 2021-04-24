@@ -6,7 +6,7 @@
 
 #### 2、一张在文件中的图片
 
-![ksm](E:\Computer English\image\ksm.jpg)
+![ksm](.\image\ksm.jpg)
 
 
 
@@ -52,4 +52,4 @@
 
 #### 11、返回README
 
-[README](E:\Computer English\README.md)
+[README](.\README.md)
